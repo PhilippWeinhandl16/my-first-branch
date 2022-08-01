@@ -1,2 +1,2 @@
 # myfirstone
-Learn about it
+Welcome to my GitHub profile
